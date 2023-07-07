@@ -1,0 +1,38 @@
+<HTML>
+<head>
+    <title>OLS</title>
+</head>
+<body>
+<h1 id="#inicio">OFFSHORE LINK SAT</h1>
+<hr />
+<h2>Índice</h2>
+<ul>
+    <li><a href="#missão">Missão</a></li>
+    <li><a href="#visão">Visão</a></li>
+    <li><a href="#Clientes">Clientes</a></li>
+    <li><a href="#Valores">Valores</a></li>
+</ul>
+<h1 id="Missão"> Missão</h2>
+<small><a href="#inicio">(Voltar)</a><small>
+<p>Contribuir para o <strong>desenvolvimento </strong> dos serviços de telecomunicação agregando</p>
+<p>valor aos nossos clientes, entregando inovação, eficiência e sustentabilidade às</p>
+<p>comunidades em todo território nacional.</p>
+
+<h2 id="Visão">Visão</h3>
+<small><a href="#inicio">(Voltar)</a><small>
+<p>Entregar comunicação através de <strong>tecnologias</strong> que cooperem com o</p>
+<p>desenvolvimento de negócios e pessoas.</p>
+<p>Internet via satélite</p>
+
+<h3 id="clientes">Clientes</h4>
+<small><a href="#inicio">(Voltar)</a><small>
+<p>Wilson Sons, CBO, Starnav</p>
+
+<h4 id="Valores">Valores</h4>
+<small><a href="#inicio">(Voltar)</a><small>
+<p>Empatia,
+    Integridade,
+    Sustentabilidade,
+    <strong>Confiança</strong> e
+    Responsabilidade</p>
+</ul>
